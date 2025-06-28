@@ -1,6 +1,9 @@
 {
   "dependencies": {
-    "express": "^5.1.0"
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0",
+    "mongodb": "^6.17.0",
+    "mongoose": "^8.16.1"
   },
   "name": "projetonodejs",
   "version": "1.0.0",
